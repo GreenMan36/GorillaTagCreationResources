@@ -4,6 +4,8 @@
 Saves on filesize but might also eliminate issues like lighting messing up in-game.
 
 
+### Gorilla model for hat creation
+---
 |Gorilla Model|offsets,           |[Download](https://discord.com/channels/810644499763691540/810663983106621501/834034424156782642)|[Model](https://discord.com/channels/810644499763691540/810663983106621501/834034424156782642) |
 |---------------------|:---------|:---------|:---------|
 |     **Position**    |	-0.307   |	-1.104  |	0      |
